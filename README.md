@@ -1,1 +1,1 @@
-React Redux assessment Test code
+React Blog Assignment 
